@@ -1,0 +1,6 @@
+{
+  "name": "오설록 360 AR",
+  "description": "제주 서광 차밭의 고해상도 가상 360 AR 가상 투어와 통합 인터랙션 시뮬레이션앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
